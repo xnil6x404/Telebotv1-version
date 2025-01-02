@@ -1,0 +1,23 @@
+{
+  "version": "1.0.3",
+  "project": {
+    "name": "TeleBotv1",
+    "repository": {
+      "url": "https://github.com/xnil6x404/Telebotv1",
+      "type": "GitHub"
+    },
+    "owner": {
+      "name": "xnil",
+      "socials": {
+        "facebook": {
+          "link": "https://www.facebook.com/xnil6x404",
+          "platform": "Facebook"
+        },
+        "instagram": {
+          "link": "https://instagram.com/xnil6x",
+          "platform": "Instagram"
+        }
+      }
+    }
+  }
+}
